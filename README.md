@@ -1,7 +1,7 @@
 # OddMusic
 OddMusic is an simple but fastest discord music bot.
 # Info
-Node version required: `12+` but 16 is recommended.<br/>
+Node version required: `16+`<br/>
 Discordjs version `13.7.0`
 # Features
 1. Fast as light
