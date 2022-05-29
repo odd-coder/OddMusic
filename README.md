@@ -14,7 +14,7 @@ Discordjs version 13
 3. Put your token into `./config/config.json` file
 4. Now run the bot using `node .` command.
 # Support
-You might know to make a discord bot it's take a lot of time and effort to code. So, if you want i keep working on new discord bots projects you can donate me at least 1 dollar.br/>
+You might know to make a discord bot it's take a lot of time and effort to code. So, if you want i keep working on new discord bots projects you can donate me at least 1 dollar.<br/>
 [Paypal me](https://paypal.me/sestro69)
 # Credit
 Creator [Sestro#4472](https://oddcoder.xyz/).<br/>
