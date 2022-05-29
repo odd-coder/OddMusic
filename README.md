@@ -15,9 +15,9 @@ Discordjs version `13.7.0`
 4. Now run the bot using `node .` command.
 # Getting started with replit
 1. Fork this project [from here](sssss).
-2. Now use `npm install` command (make sure to nodejs is installed before doing this)
+2. Now use `npm install` command in shell
 3. Put your token and prefix into secret, environment variables name `TOKEN` and `PREFIX`.
-4. Now run the bot using `node .` command or click on the run button.
+4. Now use `node .` command into the shell.
 # Support
 You might know to make a discord bot it's take a lot of time and effort to code. So, if you want i keep working on new discord bots projects you can donate me at least 1 dollar.<br/>
 [Paypal me](https://paypal.me/sestro69)
