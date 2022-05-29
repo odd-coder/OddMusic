@@ -16,9 +16,9 @@ Discordjs version `13.7.0`
 # Getting started with replit
 1. Fork this project [from here](sssss).
 2. Now use the run this script/command into your repl console.<br/>```npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH```
-3. Now use `npm install` command in shell
+3. Now use `npm install` command in console.
 4. Put your token and prefix into secret, environment variables name `TOKEN` and `PREFIX`.
-5. Now use `node .` command into the shell.
+5. Now use `node .` command into the console.
 # Support
 You might know to make a discord bot it's take a lot of time and effort to code. So, if you want i keep working on new discord bots projects you can donate me at least 1 dollar.<br/>
 [Paypal me](https://paypal.me/sestro69)
