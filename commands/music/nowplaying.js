@@ -25,6 +25,9 @@ module.exports = {
             .addField(`<:odddu:968550877923258478> **Upload-At:**`, `> ${song.uploadedAt}`, true)
             .addField(`<:oddadd:968550877445099601> **Requester:**`, `> ${song.requester} \`${song.requester.tag}\``, true)
             .addField(`<:odddu:968550877923258478> **Duration:**`, `> ${client.createBar(song.duration, curPos)}\n> **${client.formatDuration(curPos)} / ${song.durationFormatted}**`)
+      .addField(`<:oddmu:968552025723928647> **Total Listener**`, `> ${song.views}`, true)
+      .addField(`<:oddmu:968552025723928647> **Total Likes**`, `> ${song.likes}`, true)
+      .addField(`<:oddmu:968552025723928647> **Duration**`, `> ${song.durationFormatted}`, true)
         if(song?.thumbnail?.url) songEmbed.setImage(`${song?.thumbnail?.url}`);
 
         return message.reply({content: `<:oddse:968557685500948520> **Nowplaying Track**`, embeds: [songEmbed]}).catch(() => null);
