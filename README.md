@@ -15,7 +15,7 @@ Discordjs version `13.7.0`
 4. Now run the bot using `node .` command.
 # Replit user
 If you want to use this project in replit then you can from [here](https://replit.com/@SayemMiaji/OddMusic).
-# Changelog
+# Changelog 
 ### Version 1.4
 Changes on looks.<br>
 Faster then before<br>
