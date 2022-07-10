@@ -16,15 +16,15 @@ Discordjs version `13.7.0`
 # Replit user
 If you want to use this project in replit then you can from [here](https://replit.com/@SayemMiaji/OddMusic).
 # Changelog
-##Version 1.4
+### Version 1.4
 Changes on looks.<br>
 Faster then before<br>
 Youtube-sr package modified added.<br>
-##Version 1.3
+### Version 1.3
 Everything in embedded format.<br>
 Discord js 13.6 upgrade.<br>
 More cleaner then before.<br>
-##Version 1.0
+### Version 1.0
 Initial release.
 # Support
 You might know to make a discord bot it's take a lot of time and effort to code. So, if you want i keep working on new discord bots projects you can donate me at least 1 dollar.<br/>
