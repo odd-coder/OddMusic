@@ -1,5 +1,4 @@
 {
    "token": "your-bot-token-here",
-   "prefix": "your-bot-prefix-here",
-   "YOUTUBE_LOGIN_COOKIE": "optional"
+   "prefix": "your-bot-prefix-here"
 }
